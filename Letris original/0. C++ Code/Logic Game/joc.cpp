@@ -14,7 +14,7 @@ void joc()
     //Mostrem la finestra grafica
     pantalla.show();
 
-
+    HOLA
     //------------------------------------
     //-----IntroducciÑ a la pröctica -----
     Sprite boto_tancar_off("./data/GUI/Btn_Circle_Close_1_Normal.png");
